@@ -561,15 +561,15 @@
   }
 
   .font-\[\'Kapakana\:Regular\'\,sans-serif\] {
-    font-family: Kapakana\:Regular, sans-serif;
+    font-family: "Kapakana", sans-serif;
   }
 
   .font-\[\'Ledger\:Regular\'\,sans-serif\] {
-    font-family: Ledger\:Regular, sans-serif;
+    font-family: "Ledger", serif;
   }
 
   .font-\[\'Mea_Culpa\:Regular\'\,sans-serif\] {
-    font-family: Mea Culpa\:Regular, sans-serif;
+    font-family: "Mea Culpa", sans-serif;
   }
 
   .text-\[12px\] {
