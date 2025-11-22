@@ -105,7 +105,7 @@ export default function Component() {
 
       {/* Mobile-optimized content container */}
       <div className="relative mx-auto max-w-[402px] min-h-screen px-4">
-        <p className="absolute font-['Mea_Culpa:Regular',sans-serif] leading-[normal] left-1/2 not-italic text-[#363d76] text-[84px] text-center top-[96px] translate-x-[-50%] w-[353px]">A Night of Murder</p>
+        <p className="absolute font-['Mea_Culpa:Regular',sans-serif] leading-[normal] left-1/2 not-italic text-[#363d76] text-[84px] text-center top-[96px] translate-x-[-50%] w-[353px]">A Night of Murder!!!</p>
         <p className="absolute font-['Ledger:Regular',sans-serif] leading-[normal] left-1/2 not-italic text-[#363d76] text-[12px] text-center text-nowrap top-[78px] translate-x-[-50%] uppercase whitespace-pre">You're cordially invited to</p>
         <p className="absolute font-['Ledger:Regular',sans-serif] leading-[normal] left-1/2 not-italic text-[#363d76] text-[12px] text-center text-nowrap top-[333px] translate-x-[-50%] uppercase whitespace-pre">{`& BIRTHDAY CELEBRATIONs`}</p>
         <p className="absolute font-['Ledger:Regular',sans-serif] leading-[normal] left-[113px] not-italic text-[#363d76] text-[20px] text-center top-[571px] translate-x-[-50%] w-[172px]">NOV 29, 2025</p>
